@@ -1,13 +1,18 @@
 [
   {
-    "patchName": "Custom branding",
+    "patchName": "Custom branding name for YouTube",
     "options": [
       {
-        "key": "appName",
+        "key": "AppName",
         "value": "RVX"
-      },
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon for YouTube",
+    "options": [
       {
-        "key": "iconPath",
+        "key": "AppIcon",
         "value": "Revancify Blue"
       }
     ]
