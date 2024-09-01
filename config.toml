@@ -37,6 +37,8 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 arch = "arm64-v8a"
 build-mode = "both"
+included-patches = "'Custom branding' 'Change header'"
+
 [Twitter]
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
