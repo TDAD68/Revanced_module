@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "RVX"
+      },
+      {
+        "key": "iconPath",
+        "value": "Revancify Blue"
+      }
+    ]
+  }
+]
+        
