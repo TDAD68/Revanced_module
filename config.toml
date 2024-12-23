@@ -16,14 +16,15 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
+
 [YouTube-Extended]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "TDAD68/revanced-patches"
-integrations-source = "TDAD68/revanced-integrations"
-cli-source = "TDAD68/revanced-cli"
-rv-brand = "TED68 ReVanced"
-arch = "arm64-v8a"
-remove-rv-integrations-checks = true
+enabled = false
+app-name = "YouTube"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
+rv-brand = "ReVanced Extended"
 build-mode = "both"
-included-patches = "'Custom branding icon for YouTube' 'Enable slide to seek' 'Custom branding name for YouTube' 'MaterialYou'"
-excluded-patches = "'GmsCore support'"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+
